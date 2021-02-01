@@ -1,10 +1,10 @@
 # News Viewer
 
-## 네이버 뉴스 API를 활용한 News-Viewer!
+## 뉴스 API를 활용한 News-Viewer!
 
 ### 흐름도
 
-1. 네이버 API 사용권 획득을 한다.
+1. API 사용권 획득을 한다.
 
 2. axios로 API 호출해서 데이터 받아오기
 
